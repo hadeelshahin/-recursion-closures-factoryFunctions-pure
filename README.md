@@ -1,4 +1,6 @@
 "# -recursion-closures-factoryFunctions-pure" 
+
+
 *Closures:
 Every JavaScript function is a closure, which means it retains access to variables from its outer (enclosing) scope.
 Lexical scoping in JavaScript enables closures by allowing functions to "close over" variables in their lexical environment, even after the outer function has finished execution.
